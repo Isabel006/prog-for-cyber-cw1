@@ -66,4 +66,3 @@ python3 security_tool.py
 
 The account freeze is simulated using Python's date and time functionality. The frozen status is held in memory and resets when the program is restarted.
 
-The predefined passwords are for coursework demonstration purposes only and should not be used for real accounts.
