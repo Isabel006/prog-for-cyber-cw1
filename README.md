@@ -57,6 +57,11 @@ Screenshots
 
 The `screenshots` folder contains evidence of the program running and displaying the validation results and generated passwords.
 
-Notes
+Assumptions and Limitations
+- Passwords must contain at least 10 characters, including at least one letter, one digit and one symbol.
+- The IP address validator performs basic IPv4 format validation. It checks for exactly four numeric octets, with each value between 0 and 255. It does not perform additional network or IP address checks.
+- Generated passwords have a random length between 10 and 16 characters and include at least one uppercase letter, one lowercase letter, one digit and one symbol.
+- The program uses sample inputs provided by the user and does not connect to a real authentication system or network.
 
+Notes
 This project was developed as part of Coursework 1 for Programming for Cyber Security. Comments are included to explain the main functions and important operations.
