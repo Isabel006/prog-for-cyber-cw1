@@ -1,6 +1,6 @@
 Task 5 – Reusable Cyber Security Utilities
 
-Student Information
+Student Details
 
 - Name: Isabel Laura Ndove
 - Campus: Lanarkshire
